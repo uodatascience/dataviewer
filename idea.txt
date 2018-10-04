@@ -1,0 +1,3 @@
+- data loading with prescribed visualization based on type
+- transformation pipeline, optionally prespecified (ie. tuning curves from a tuningcurve-like stimulus structure)
+- ability to go "backwards" in pipline, select outcome measurement, and display only that in previous windows.
